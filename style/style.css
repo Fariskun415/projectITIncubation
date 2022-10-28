@@ -1,6 +1,13 @@
-#kanan {
-    background-color: #C6DCF4
-}
+
 #kelompok {
     color: #E26868;
+}
+.img-site {
+    height: auto;
+    width: 500px;
+}
+.item {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 30px;
 }
